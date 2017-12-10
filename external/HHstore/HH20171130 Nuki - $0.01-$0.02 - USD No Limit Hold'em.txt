@@ -1,0 +1,167 @@
+﻿PokerStars Hand #178907492101:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/11/30 12:12:58 WET [2017/11/30 7:12:58 ET]
+Table 'Nuki' 6-max Seat #5 is the button
+Seat 1: Sile08.71 ($3.30 in chips) 
+Seat 2: rorrrr ($1.60 in chips) 
+Seat 3: azx838 ($2.12 in chips) 
+Seat 4: Mr Party Jesus ($2.84 in chips) 
+Seat 5: B@RM@LEY64 ($2 in chips) 
+Seat 6: Log1c "0" ($2.09 in chips) 
+Log1c "0": posts small blind $0.01
+Sile08.71: posts big blind $0.02
+rorrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [Kh 9h]
+rorrrr: raises $0.04 to $0.06
+azx838: calls $0.06
+Mr Party Jesus: folds 
+B@RM@LEY64: folds 
+Log1c "0": folds 
+Sile08.71: folds 
+*** FLOP *** [Ts 6c 7d]
+rorrrr: checks 
+azx838: checks 
+*** TURN *** [Ts 6c 7d] [2h]
+rorrrr: checks 
+azx838: checks 
+*** RIVER *** [Ts 6c 7d 2h] [3c]
+rorrrr: checks 
+azx838: checks 
+*** SHOW DOWN ***
+rorrrr: shows [Kh 9h] (high card King)
+azx838: shows [Ac 5c] (high card Ace)
+azx838 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 6c 7d 2h 3c]
+Seat 1: Sile08.71 (big blind) folded before Flop
+Seat 2: rorrrr showed [Kh 9h] and lost with high card King
+Seat 3: azx838 showed [Ac 5c] and won ($0.14) with high card Ace
+Seat 4: Mr Party Jesus folded before Flop (didn't bet)
+Seat 5: B@RM@LEY64 (button) folded before Flop (didn't bet)
+Seat 6: Log1c "0" (small blind) folded before Flop
+
+PokerStars Hand #178907292101:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/11/30 12:12:58 WET [2017/11/30 7:12:58 ET]
+Table 'Nuki' 6-max Seat #5 is the button
+Seat 1: Sile08.71 ($3.30 in chips) 
+Seat 2: rorrrr ($1.60 in chips) 
+Seat 3: azx838 ($2.12 in chips) 
+Seat 4: Mr Party Jesus ($2.84 in chips) 
+Seat 5: B@RM@LEY64 ($2 in chips) 
+Seat 6: Log1c "0" ($2.09 in chips) 
+Log1c "0": posts small blind $0.01
+Sile08.71: posts big blind $0.02
+rorrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [Kh Jh]
+rorrrr: raises $0.04 to $0.06
+azx838: calls $0.06
+Mr Party Jesus: folds 
+B@RM@LEY64: folds 
+Log1c "0": folds 
+Sile08.71: folds 
+*** FLOP *** [Ts 6c 7d]
+rorrrr: checks 
+azx838: checks 
+*** TURN *** [Ts 6c 7d] [2h]
+rorrrr: checks 
+azx838: checks 
+*** RIVER *** [Ts 6c 7d 2h] [3c]
+rorrrr: checks 
+azx838: checks 
+*** SHOW DOWN ***
+rorrrr: shows [Kh Jh] (high card King)
+azx838: shows [Ac 5c] (high card Ace)
+azx838 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 6c 7d 2h 3c]
+Seat 1: Sile08.71 (big blind) folded before Flop
+Seat 2: rorrrr showed [Kh Jh] and lost with high card King
+Seat 3: azx838 showed [Ac 5c] and won ($0.14) with high card Ace
+Seat 4: Mr Party Jesus folded before Flop (didn't bet)
+Seat 5: B@RM@LEY64 (button) folded before Flop (didn't bet)
+Seat 6: Log1c "0" (small blind) folded before Flop
+
+PokerStars Hand #178907492101:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/11/30 12:12:58 WET [2017/11/30 7:12:58 ET]
+Table 'Nuki' 6-max Seat #5 is the button
+Seat 1: Sile08.71 ($3.30 in chips) 
+Seat 2: rorrrr ($1.60 in chips) 
+Seat 3: azx838 ($2.12 in chips) 
+Seat 4: Mr Party Jesus ($2.84 in chips) 
+Seat 5: B@RM@LEY64 ($2 in chips) 
+Seat 6: Log1c "0" ($2.09 in chips) 
+Log1c "0": posts small blind $0.01
+Sile08.71: posts big blind $0.02
+rorrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [Kh Qh]
+rorrrr: raises $0.04 to $0.06
+azx838: calls $0.06
+Mr Party Jesus: folds 
+B@RM@LEY64: folds 
+Log1c "0": folds 
+Sile08.71: folds 
+*** FLOP *** [Ts 6c 7d]
+rorrrr: checks 
+azx838: checks 
+*** TURN *** [Ts 6c 7d] [2h]
+rorrrr: checks 
+azx838: checks 
+*** RIVER *** [Ts 6c 7d 2h] [3c]
+rorrrr: checks 
+azx838: checks 
+*** SHOW DOWN ***
+rorrrr: shows [Kh Qh] (high card King)
+azx838: shows [Ac 5c] (high card Ace)
+azx838 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 6c 7d 2h 3c]
+Seat 1: Sile08.71 (big blind) folded before Flop
+Seat 2: rorrrr showed [Kh Qh] and lost with high card King
+Seat 3: azx838 showed [Ac 5c] and won ($0.14) with high card Ace
+Seat 4: Mr Party Jesus folded before Flop (didn't bet)
+Seat 5: B@RM@LEY64 (button) folded before Flop (didn't bet)
+Seat 6: Log1c "0" (small blind) folded before Flop
+
+PokerStars Hand #178907492101:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/11/30 12:12:58 WET [2017/11/30 7:12:58 ET]
+Table 'Nuki' 6-max Seat #5 is the button
+Seat 1: Sile08.71 ($3.30 in chips) 
+Seat 2: rorrrr ($1.60 in chips) 
+Seat 3: azx838 ($2.12 in chips) 
+Seat 4: Mr Party Jesus ($2.84 in chips) 
+Seat 5: B@RM@LEY64 ($2 in chips) 
+Seat 6: Log1c "0" ($2.09 in chips) 
+Log1c "0": posts small blind $0.01
+Sile08.71: posts big blind $0.02
+rorrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [Kh Qh]
+rorrrr: raises $0.04 to $0.06
+azx838: calls $0.06
+Mr Party Jesus: folds 
+B@RM@LEY64: folds 
+Log1c "0": folds 
+Sile08.71: folds 
+*** FLOP *** [Ts 6c 7d]
+rorrrr: checks 
+azx838: checks 
+*** TURN *** [Ts 6c 7d] [2h]
+rorrrr: checks 
+azx838: checks 
+*** RIVER *** [Ts 6c 7d 2h] [3c]
+rorrrr: checks 
+azx838: checks 
+*** SHOW DOWN ***
+rorrrr: shows [Kh Qh] (high card King)
+azx838: shows [Ac 5c] (high card Ace)
+azx838 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 6c 7d 2h 3c]
+Seat 1: Sile08.71 (big blind) folded before Flop
+Seat 2: rorrrr showed [Kh Qh] and lost with high card King
+Seat 3: azx838 showed [Ac 5c] and won ($0.14) with high card Ace
+Seat 4: Mr Party Jesus folded before Flop (didn't bet)
+Seat 5: B@RM@LEY64 (button) folded before Flop (didn't bet)
+Seat 6: Log1c "0" (small blind) folded before Flop

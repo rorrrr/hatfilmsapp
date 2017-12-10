@@ -1,0 +1,24 @@
+{
+  "name": "hardware_monitor",
+  "version": "1.0.0",
+  "description": "An simple example of using Game Auth with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muxy <team@muxy.io>",
+  "license": "MIT",
+  "dependencies": {
+    "hha": "^0.7.1",
+    "hha-pokerhand": "^1.3.0",
+    "hhp": "^0.5.2",
+    "hhv": "^0.1.0",
+    "lodash": "^4.17.4",
+    "poker-parser": "^1.0.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "systeminformation": "^3.26.1",
+    "underscore": "^1.8.3",
+    "windows-cpu": "^0.1.4"
+  }
+}

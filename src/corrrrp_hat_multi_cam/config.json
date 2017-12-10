@@ -1,0 +1,10 @@
+{
+  "id": "corrrrp_hat_multi_cam",
+  "name": "Hat Multi Cam",
+  "icon": "assets/images/hatlogo.jpg",
+  "window": "movable",
+  "viewer": "HatCamApp",
+  "live": "HatCamLive",
+  "available": true,
+  "description": "Choose which Hat Film's screen to view!"
+}
